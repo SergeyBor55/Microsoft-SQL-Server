@@ -1,7 +1,7 @@
 ## Имеются две таблицы:
 ### create table department
 (id number(10), name (varchar(100))
-### Create table employee
+### create table employee
 (id number(10), department_id number(10),chief_id number(10), name varchar(100),salary numer(10))
 
 ## Задача:
